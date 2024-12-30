@@ -6,4 +6,6 @@ void main() {
     ..add("Krischanski");
 
   print(mod);
+  print(nomes);
+
 }
